@@ -19,8 +19,7 @@
 			_________________________________
 		</body>
 
-</html>
-</p></font></font></h6></center>
+</html></p></font></font></h6></center>
 						      
 <a href="https://bulbuwad.github.io/Bulbuwa.GitHub.io/">click here</a>
 </body>
