@@ -20,7 +20,8 @@
 		</body>
 
                 </html>    
-	</p></p></font></font></h6></center>
-	<a href="https://bulbuwad.github.io/Bulbuwa.GitHub.io/">click here</a>
+	                                                     </p></p></font></font></h6></center>
+						      
+<a href="https://bulbuwad.github.io/Bulbuwa.GitHub.io/">click here</a>
 </body>
 </html>
