@@ -10,6 +10,6 @@
 	<center><h6><font size="10"><font color="black">1.step</font></font></h6></center>
         <center><h6><font size="10"><font color="black"></font></font></h6></center>
 
-	<a href="https://bulbuwad.github.io/Bulbuwa.GitHub.io/">click here</a>
+<a href="https://bulbuwad.github.io/Bulbuwa.GitHub.io/">click here</a>
 </body>
 </html>
